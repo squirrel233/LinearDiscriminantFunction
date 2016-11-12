@@ -1,0 +1,2 @@
+# LinearDiscriminantFunction
+简单的线性判别函数算法实现
